@@ -1,0 +1,61 @@
+/* Nicholas Thibeault 8835735 */
+body{
+    font : normal normal normal 12px/1.5 Arial, Helvetica, sans-serif;
+    width : 100vw;
+    height : 100vh;
+    background-color : #fff0db;
+}
+h1{
+    font-variant: small-caps;
+}
+h2{
+    font-variant: small-caps;
+    color : blueviolet;
+    font-size : 2em;
+}
+header{
+    border-radius: 20px;
+    font-size : 2em;
+}
+main{
+    border-radius: 20px;
+    float : left;
+    width : 63vw;
+    height : 65vh;
+}
+aside{
+    border-radius: 20px;
+    float : right;
+    width : 32vw;
+    height : 60vh;
+}
+footer{
+    border-radius: 20px;
+    clear : both;
+}
+.structural{
+    margin : 10px;
+    padding : 10px;
+    border : 2px solid black;
+}
+.mainimg{
+    font-variant: small-caps;
+    font-weight: bold;
+}
+.quotes{
+    font-family : cursive;
+    font-style: italic;
+    font-size : 2em;
+}
+a:link{
+    text-decoration : none;
+}
+a:hover{
+    color : rgb(58, 177, 171);
+}
+footer p{
+    font-size : .75em;
+}
+ul {
+    list-style-type: none;
+  }
